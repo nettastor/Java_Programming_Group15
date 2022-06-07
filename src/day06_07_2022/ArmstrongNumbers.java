@@ -19,28 +19,5 @@ return originalNumber==sumOfCubesOfDigits;}
         System.out.println("Number " + number2+ " is Armstrong: "+isArmstrong(number2)+".");}}//false
 
 
-/*
-       int lastDigit=0;
-        int totalDigits=0;
-        int originalNumber=number;
-
-        while(number>0){
-
-            lastDigit=number%10;    // to find last digit
-
-            System.out.println("lastDigit "+lastDigit);
-
-            number/=10;
-            //number=number/10;
-
-            totalDigits+=lastDigit*lastDigit*lastDigit;
-
-        }
-
-        if(totalDigits==originalNumber){
-
-            System.out.println(originalNumber);
-
-        }
- */
+ 
 
