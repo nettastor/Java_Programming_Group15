@@ -19,12 +19,3 @@ public class ReverseNegativeNumber {
         int number2=100;
         System.out.println("Reversed " + number1+ ": " + reverseNegativeNum(number1)+".");
         System.out.println("Reversed " + number2+ ": " + reverseNegativeNum(number2)+".");}}
-/*
-        int originalNumber=number;
-       int sumOfCubesOfDigits=0;
-   while(number>0){
-     int digit=number%10;
-number/=10;
-sumOfCubesOfDigits+=digit*digit*digit;}
-return originalNumber==sumOfCubesOfDigits;}
- */
