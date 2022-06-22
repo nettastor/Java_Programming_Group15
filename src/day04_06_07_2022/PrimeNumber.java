@@ -1,4 +1,4 @@
-package day06_07_2022;
+package day04_06_07_2022;
 public class PrimeNumber {
     /*
     22) Numbers - Prime Number

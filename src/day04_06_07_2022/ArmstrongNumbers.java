@@ -1,4 +1,4 @@
-package day06_07_2022;
+package day04_06_07_2022;
 public class ArmstrongNumbers {
 //23) Numbers - Armstrong numbers
 //    Write a method that can check if a number is Armstrong  number
@@ -19,5 +19,5 @@ return originalNumber==sumOfCubesOfDigits;}
         System.out.println("Number " + number2+ " is Armstrong: "+isArmstrong(number2)+".");}}//false
 
 
- 
+
 

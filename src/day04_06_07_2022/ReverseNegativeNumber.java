@@ -1,4 +1,4 @@
-package day06_07_2022;
+package day04_06_07_2022;
 /*
 24) Number - Reverse negative number
 Write a return method that can reverse negative number and return it as int
